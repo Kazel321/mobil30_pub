@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab21_lukyanov</string>
+    <string name="btnSave">SAVE</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="btnReturn">RETURN</string>
+    <string name="btnExperiments">EXPERIMENTS</string>
+    <string name="btnTag">SELECT TAG</string>
+    <string name="btnSettings">SETTINGS</string>
+    <string name="labElement">Element:</string>
+    <string name="labAPI">API:</string>
+    <string name="labTags">Tags:</string>
+    <string name="labDivisions">Display Divisions:</string>
+    <string name="labIntensity">Gradient Intensity:</string>
+</resources>
